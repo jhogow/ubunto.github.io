@@ -1,0 +1,67 @@
+body {
+    background-image: url(img/afrobackground.jpg);
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 15px;
+
+}
+
+div#principal{
+    background-color: rgba(255, 245, 238, 0.9);
+    margin: 0px 200px;
+    border-radius: 30px;
+    padding: 0px 50px 30px;
+    text-align:justify;
+   
+}
+
+h1 {
+    font-family: 'Kenia', cursive;
+    text-transform: uppercase;
+    font-size: 70px;
+    padding-top: 30px;
+    text-align: center;
+    color:rgb(237, 114, 7);
+}
+
+img#foto{
+    border-radius: 10px;
+    margin-bottom: 30px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h2{
+    color: rgba(22, 92, 6, 0.572);
+    padding: 20px 
+}
+
+
+a.destaque{
+    text-decoration:double;
+    font-weight: bold;
+    color: orangered;
+}
+
+a.destaque:hover{
+color: rgb(80, 20, 220);
+}
+
+p.texto{
+    text-indent: 1.5em;
+    margin: 25px;
+} 
+
+footer{
+    color: orangered;
+    background-color: rgba(248, 248, 248, 0.815);
+    padding: 5px;
+    margin: 50px 500px;
+    border-radius: 10px;
+}
+
+strong{
+
+}
+
