@@ -8,7 +8,7 @@ body {
 
 div#principal{
     background-color: rgba(255, 245, 238, 0.9);
-    margin: 0px 200px;
+    margin: 0px 150px;
     border-radius: 30px;
     padding: 0px 50px 30px;
     text-align:justify;
@@ -34,9 +34,12 @@ img#foto{
 
 h2{
     color: rgba(22, 92, 6, 0.572);
-    padding: 20px 
+    padding: 10px 
 }
 
+hr{
+
+}
 
 a.destaque{
     text-decoration:double;
@@ -50,18 +53,15 @@ color: rgb(80, 20, 220);
 
 p.texto{
     text-indent: 1.5em;
-    margin: 25px;
+    margin: 20px;
+    font-size: 19px;
 } 
 
-footer{
+#parag8{
     color: orangered;
-    background-color: rgba(248, 248, 248, 0.815);
-    padding: 5px;
-    margin: 50px 500px;
+    padding-top: 20px;
     border-radius: 10px;
-}
-
-strong{
-
+    text-align: right;
+    font-size: 10px ;
 }
 
